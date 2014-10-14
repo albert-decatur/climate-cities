@@ -11,9 +11,13 @@ Determine a relationship between climate-realted development finance going to ur
 2. given gridded population, characterize the most densely populated areas of the Earth as urban
 3. calculate service areas of those urban areas, using a buffer or travel time along roads
 4. for each urban area find the total amount of climate-related aid
-5. calculate temperature and precipitation anomalies for the period 2001-2010
-  1. use 1870-1999 as a baseline
-  1. 
+5. calculate temperature and precipitation anomalies for the period 1995-1999 (uses historical data) and 2011-2030 (uses forecast data).
+  1. use 1870-1999 as a baseline in both cases
+6. for each urban area find the temperature and precipitation anomalies for 1995-1999 and 2011-2030
+7. make two scatterplots
+  1. units are urban areas, X is climate historical anomaly and Y is climate-related aid funding
+  1. units are urban areas, X is climate forecast anomaly and Y is climate-related aid funding
+  1. make a composite index of temp and precip anomaly or do four scatterplots?
 
 ##Inputs##
 
