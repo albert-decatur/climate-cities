@@ -1,0 +1,3 @@
+[submodule "qa-tools"]
+	path = qa-tools
+	url = git@github.com:AidData-WM/qa-tools.git
