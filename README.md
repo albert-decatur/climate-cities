@@ -29,9 +29,9 @@ We use the ensemble averages.
 These data come from NCAR Community Climate System Model (CCSM).
 Note that while CCSM makes a total precipitation climate anomaly dataset available, this is not the case for surface temperature.
 
-###Population###
+###Urban Areas###
 
-We use [CIESIN's](http://sedac.ciesin.columbia.edu/data/sets/browse) Global Rural-Urban Mapping Project (GRUMPv1) for the year 2000.
+We use [CIESIN's](http://sedac.ciesin.columbia.edu/data/sets/browse) Global Rural-Urban Mapping Project (GRUMPv1) Urban Extents for the year 1995 that are within a distance of [GeoNames](geonames.org) populated places with population greater than or equal to one hundred thousand.
 
 ###International Aid###
 
