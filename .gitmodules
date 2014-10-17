@@ -1,3 +1,6 @@
 [submodule "qa-tools"]
 	path = qa-tools
 	url = git@github.com:AidData-WM/qa-tools.git
+[submodule "git-split-big"]
+	path = git-split-big
+	url = git@github.com:albert-decatur/git-split-big.git
