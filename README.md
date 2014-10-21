@@ -7,9 +7,8 @@ Determine a relationship between climate-realted development finance going to ur
 
 1. characterize spatial allocation of climate-related international aid given limited place information
   1. assume an even spatial distribution inside known administrative boundaries at different levels, along with some point locations, buffered point locations, and entire countries when nothing else is known.
-  1. all sectors of aid are assumed to be climate-related except for 'Energy and mining', 'Industry and trade', and 'Finance'.
-2. given gridded population, characterize the most densely populated areas of the Earth as urban
-3. calculate service areas of those urban areas, using a buffer or travel time along roads
+  1. all sectors of aid are assumed to be climate-related except for 'Energy and mining', 'Industry and trade', and 'Finance'
+2. define urban as GRUMP 1995 urban mask areas that overlap at least one GeoNames populated place with population >= 10,000
 4. for each urban area find the total amount of climate-related aid
 5. calculate temperature and precipitation anomalies for the period 1995-1999 (uses historical data) and 2015-2030 (uses forecast data).
   1. use 1870-1999 as a baseline in both cases
@@ -18,6 +17,10 @@ Determine a relationship between climate-realted development finance going to ur
   1. units are urban areas, X is climate historical anomaly and Y is climate-related aid funding
   1. units are urban areas, X is climate forecast anomaly and Y is climate-related aid funding
   1. make a composite index of temp and precip anomaly or do four scatterplots?
+
+Note that:
+1. GRUMP urban area mask is for 1995, but GRUMP population counts are for 2000
+  1. there is no other GRMUP urban mask
 
 ##Inputs##
 
@@ -31,7 +34,7 @@ Note that while CCSM makes a total precipitation climate anomaly dataset availab
 
 ###Urban Areas###
 
-We use [CIESIN's](http://sedac.ciesin.columbia.edu/data/sets/browse) Global Rural-Urban Mapping Project (GRUMPv1) Urban Extents for the year 1995 that are within a distance of [GeoNames](geonames.org) populated places with population greater than or equal to one hundred thousand.
+We use [CIESIN's](http://sedac.ciesin.columbia.edu/data/sets/browse) Global Rural-Urban Mapping Project (GRUMPv1) Urban Extents for the year 1995 that are within a distance of [GeoNames](geonames.org) populated places with population greater than or equal to ten thousands.
 
 ###International Aid###
 
