@@ -40,3 +40,19 @@ We use [CIESIN's](http://sedac.ciesin.columbia.edu/data/sets/browse) Global Rura
 
 We use [AidData's](aiddata.org) World Bank Mapping for Results dataset, which covers all projects where World Bank was the donor that were active from ..... to ....
 This dataset is current to September 2011.
+
+##Caveats##
+
+* lat/lon have been updated according to latest GeoNames using GeoName IDs
+  * a few hundred aid project locations with no current entries in the GeoNames gazeteer have been removed
+* GAUL boundaries for 2013 are used regardless of the year that aid was provided.  In other words, the year for boundaries is always 2013.
+
+col_name|meaning
+|---|---|
+mean_hist|mean monthly for historical 1870-1999
+mean_sub1|mean monthly for historical 1995-1999
+mean_sub2|mean monthly for forecast 2015-2030
+absdiff_sub1hist|abs( mean monthly 1995-1999 - mean monthly 1870-1999 )
+prctdiff_sub1hist|abs( mean monthly 1995-1999 - mean monthly 1870-1999 )/(mean monthly 1870-1999)*100
+absdiff_sub2hist|abs( mean monthly 2015-2030 - mean monthly 1870-1999 )
+prctdiff_sub2hist|abs( mean monthly 2015-2030 - mean monthly 1870-1999 )/(mean monthly 1870-1999)*100
