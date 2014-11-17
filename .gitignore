@@ -1,6 +1,9 @@
 input/
 input/aid/AllWorldBank_IBRDIDA.csv.zip
 input/climate/ccsm_grid/CCSM_polygons.zip
+scratch/aid/g2014_2013_2/gaul2013_adm1.shp
+scratch/aid/g2014_2013_2/gaul2013.shp
+scratch/aid/g2014_2013_2.zip
 scratch/climate/ccsm_grid/ccsm_polygons.dbf
 scratch/climate/ccsm_grid/ccsm_polygons.sbn
 scratch/climate/ccsm_grid/ccsm_polygons.shp
@@ -20,12 +23,12 @@ scratch/climate/historical/ts/mean_ts_1870_1999_20C3M-180.0_180.0_-90.0_90.0.tsv
 scratch/climate/historical/ts/mean_ts_1995_1999_20C3M-180.0_180.0_-90.0_90.0.tsv
 scratch/climate/historical/ts/ts_1870_1999_20C3M-180.0_180.0_-90.0_90.0.tsv
 scratch/climate/historical/ts/ts_1995_1999_20C3M-180.0_180.0_-90.0_90.0.tsv
+scratch/pop/ge_pop_10k_2014-10-02.csv
+scratch/pop/ge_pop_10k_2014-10-02.dbf
+scratch/pop/ge_pop_10k_2014-10-02.shp
+scratch/pop/ge_pop_10k_2014-10-02.shx
 scratch/pop/GRUMPv1_2000_UNadjpop.tif
 scratch/pop/GRUMPv1_urbanExtents.dbf
 scratch/pop/GRUMPv1_urbanExtents.shp
 scratch/pop/GRUMPv1_urbanExtents.shx
 scratch/pop/GRUMPv1_urbanExtents.tif
-scratch/pop/ge_pop_10k_2014-10-02.csv
-scratch/pop/ge_pop_10k_2014-10-02.dbf
-scratch/pop/ge_pop_10k_2014-10-02.shp
-scratch/pop/ge_pop_10k_2014-10-02.shx
