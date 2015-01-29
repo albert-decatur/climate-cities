@@ -1,0 +1,3613 @@
+rm: cannot remove ‘/tmp/city_tifs/’: No such file or directory
+Input file size is 36000, 17363
+Computed -srcwin 19752 4282 24 19 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 24P x 19L.
+Processing input file /tmp/35924.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 30597 4090 14 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 8L.
+Processing input file /tmp/32764.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 13101 11065 17 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 13L.
+Processing input file /tmp/84212.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20189 3213 17 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 13L.
+Processing input file /tmp/20369.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19003 3874 10 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 6L.
+Processing input file /tmp/29192.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20430 3742 13 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 8L.
+Processing input file /tmp/27263.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17202 4947 132 82 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 132P x 82L.
+Processing input file /tmp/49442.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8056 6368 74 95 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 74P x 95L.
+Processing input file /tmp/64720.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 27858 7115 8 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 7L.
+Processing input file /tmp/68969.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25300 6113 31 29 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 31P x 29L.
+Processing input file /tmp/62423.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 24905 4690 11 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 8L.
+Processing input file /tmp/43037.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9160 4727 19 12 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 19P x 12L.
+Processing input file /tmp/43843.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22726 10327 8 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 6L.
+Processing input file /tmp/82091.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 14020 9575 13 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 8L.
+Processing input file /tmp/80249.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18975 3479 21 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 21P x 8L.
+Processing input file /tmp/23331.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20823 3713 5 3 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 5P x 3L.
+Processing input file /tmp/26749.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8033 6502 14 14 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 14L.
+Processing input file /tmp/65034.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18705 7009 12 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 9L.
+Processing input file /tmp/68191.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29491 4769 52 43 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 52P x 43L.
+Processing input file /tmp/45029.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22806 2915 38 38 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 38P x 38L.
+Processing input file /tmp/17402.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21085 5477 12 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 7L.
+Processing input file /tmp/54698.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25443 6380 10 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 13L.
+Processing input file /tmp/64305.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10572 9673 13 12 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 12L.
+Processing input file /tmp/80565.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29060 9049 7 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 7L.
+Processing input file /tmp/78533.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21651 9840 6 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 6P x 6L.
+Processing input file /tmp/80917.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10010 4778 17 21 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 21L.
+Processing input file /tmp/44808.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22544 4168 9 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 6L.
+Processing input file /tmp/33772.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17116 4443 11 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 7L.
+Processing input file /tmp/38126.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 5835 4407 23 14 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 23P x 14L.
+Processing input file /tmp/37684.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19025 3127 43 33 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 43P x 33L.
+Processing input file /tmp/19656.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29521 5313 10 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 7L.
+Processing input file /tmp/53034.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19009 3463 12 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 7L.
+Processing input file /tmp/23155.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20695 2125 36 15 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 36P x 15L.
+Processing input file /tmp/8118.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10457 8048 30 33 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 30P x 33L.
+Processing input file /tmp/74927.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25381 6544 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/65478.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21675 2768 17 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 7L.
+Processing input file /tmp/15324.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17765 7715 6 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 6P x 5L.
+Processing input file /tmp/73242.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 13260 9910 14 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 13L.
+Processing input file /tmp/81063.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19365 3074 25 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 25P x 9L.
+Processing input file /tmp/18981.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21967 9360 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/79719.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 24808 5670 16 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 16P x 13L.
+Processing input file /tmp/56722.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18704 4685 13 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 7L.
+Processing input file /tmp/42855.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17285 4117 27 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 27P x 10L.
+Processing input file /tmp/33209.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 23183 3648 13 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 9L.
+Processing input file /tmp/25975.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26814 6128 12 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 7L.
+Processing input file /tmp/62330.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20811 2571 40 21 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 40P x 21L.
+Processing input file /tmp/13384.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20894 4599 18 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 10L.
+Processing input file /tmp/41072.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26215 5822 10 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 7L.
+Processing input file /tmp/58609.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 28517 6176 8 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 8L.
+Processing input file /tmp/62847.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21607 4673 24 43 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 24P x 43L.
+Processing input file /tmp/43449.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17647 7113 11 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 8L.
+Processing input file /tmp/68956.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25571 5910 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/59871.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10625 8003 10 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 10L.
+Processing input file /tmp/74771.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25729 6393 5 4 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 5P x 4L.
+Processing input file /tmp/64335.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8671 4820 28 24 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 28P x 24L.
+Processing input file /tmp/45656.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25300 5880 9 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 7L.
+Processing input file /tmp/59464.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26290 5642 7 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 6L.
+Processing input file /tmp/56339.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10334 4336 65 31 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 65P x 31L.
+Processing input file /tmp/36831.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21050 5277 7 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 6L.
+Processing input file /tmp/52635.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29001 6354 54 23 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 54P x 23L.
+Processing input file /tmp/64204.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20810 4420 8 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 6L.
+Processing input file /tmp/37752.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19510 3778 14 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 10L.
+Processing input file /tmp/27835.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9670 6100 8 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 7L.
+Processing input file /tmp/61950.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 23002 5704 7 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 6L.
+Processing input file /tmp/57123.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21563 3634 15 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 15P x 8L.
+Processing input file /tmp/25790.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 30317 4165 98 35 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 98P x 35L.
+Processing input file /tmp/34092.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29794 4345 213 67 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 213P x 67L.
+Processing input file /tmp/37502.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20700 3340 15 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 15P x 10L.
+Processing input file /tmp/21654.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29369 5256 11 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 7L.
+Processing input file /tmp/52411.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22844 2919 47 18 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 47P x 18L.
+Processing input file /tmp/17196.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26455 6424 5 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 5P x 5L.
+Processing input file /tmp/64493.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 5671 3836 22 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 22P x 11L.
+Processing input file /tmp/28702.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22811 4525 31 21 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 31P x 21L.
+Processing input file /tmp/39711.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 11143 11816 38 22 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 38P x 22L.
+Processing input file /tmp/86300.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29689 5991 19 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 19P x 10L.
+Processing input file /tmp/60868.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29566 11610 17 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 11L.
+Processing input file /tmp/85391.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21639 2858 18 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 7L.
+Processing input file /tmp/16302.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20636 2799 27 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 27P x 10L.
+Processing input file /tmp/15660.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29689 4433 87 71 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 87P x 71L.
+Processing input file /tmp/39043.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19210 4147 12 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 9L.
+Processing input file /tmp/33547.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20071 4383 27 27 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 27P x 27L.
+Processing input file /tmp/37481.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10231 8250 14 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 9L.
+Processing input file /tmp/75479.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9398 4500 88 72 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 88P x 72L.
+Processing input file /tmp/40232.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 13755 10470 17 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 10L.
+Processing input file /tmp/82657.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19021 7797 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/73856.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26298 6229 6 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 6P x 5L.
+Processing input file /tmp/63306.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25939 5558 3 4 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 3P x 4L.
+Processing input file /tmp/55499.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17352 4515 16 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 16P x 11L.
+Processing input file /tmp/39297.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21520 9690 8 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 7L.
+Processing input file /tmp/80589.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25794 6683 13 12 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 12L.
+Processing input file /tmp/66354.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25822 6555 8 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 6L.
+Processing input file /tmp/65559.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 27450 5728 5 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 5P x 5L.
+Processing input file /tmp/57486.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22820 5006 29 20 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 29P x 20L.
+Processing input file /tmp/49343.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21875 2682 23 14 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 23P x 14L.
+Processing input file /tmp/14435.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22740 10297 6 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 6P x 5L.
+Processing input file /tmp/82061.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22337 4854 26 28 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 26P x 28L.
+Processing input file /tmp/46517.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20704 9859 6 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 6P x 5L.
+Processing input file /tmp/80961.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18468 3953 46 32 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 46P x 32L.
+Processing input file /tmp/30779.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8465 6513 29 12 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 29P x 12L.
+Processing input file /tmp/65143.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19682 3356 28 23 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 28P x 23L.
+Processing input file /tmp/22001.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29265 4510 18 18 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing input file /tmp/39414.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21335 9246 19 14 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 19P x 14L.
+Processing input file /tmp/79428.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9390 4424 30 29 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 30P x 29L.
+Processing input file /tmp/38136.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26027 5467 12 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 8L.
+Processing input file /tmp/54622.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20473 4244 33 16 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 33P x 16L.
+Processing input file /tmp/34986.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 27212 5921 9 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 7L.
+Processing input file /tmp/60107.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 13438 10467 13 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 9L.
+Processing input file /tmp/82635.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 24872 4115 17 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 11L.
+Processing input file /tmp/33182.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20531 3625 10 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 8L.
+Processing input file /tmp/25594.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17128 7297 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/70458.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25995 6867 12 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 9L.
+Processing input file /tmp/67311.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21656 2578 23 14 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 23P x 14L.
+Processing input file /tmp/13356.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8496 4766 13 14 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 14L.
+Processing input file /tmp/44455.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 11649 10479 17 14 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 14L.
+Processing input file /tmp/82712.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22658 4196 12 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 9L.
+Processing input file /tmp/34151.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 31135 4916 13 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 9L.
+Processing input file /tmp/47488.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19954 3745 27 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 27P x 13L.
+Processing input file /tmp/27378.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25308 6085 10 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 11L.
+Processing input file /tmp/61794.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 24687 5320 25 38 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 25P x 38L.
+Processing input file /tmp/53396.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 12559 11391 18 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 10L.
+Processing input file /tmp/85011.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20448 3943 8 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 5L.
+Processing input file /tmp/30258.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17915 4346 108 167 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 108P x 167L.
+Processing input file /tmp/39169.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 16709 7354 13 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 7L.
+Processing input file /tmp/71136.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9773 5534 15 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 15P x 11L.
+Processing input file /tmp/55291.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 12877 8344 25 29 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 25P x 29L.
+Processing input file /tmp/75881.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 6060 3638 32 19 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 32P x 19L.
+Processing input file /tmp/25931.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18846 7581 14 15 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 15L.
+Processing input file /tmp/72539.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19264 3362 13 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 9L.
+Processing input file /tmp/21916.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21787 7045 5 4 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 5P x 4L.
+Processing input file /tmp/68464.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 33257 11065 101 125 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 101P x 125L.
+Processing input file /tmp/84497.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26023 6730 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/66610.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 12510 10579 23 16 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 23P x 16L.
+Processing input file /tmp/83038.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 31375 4939 95 40 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 95P x 40L.
+Processing input file /tmp/48646.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19072 3840 18 14 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 14L.
+Processing input file /tmp/28862.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10048 4839 18 16 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 16L.
+Processing input file /tmp/45945.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18529 3193 45 38 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 45P x 38L.
+Processing input file /tmp/20445.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18218 3284 20 12 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 20P x 12L.
+Processing input file /tmp/21076.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 28189 8084 19 16 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 19P x 16L.
+Processing input file /tmp/74949.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9381 5014 18 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 11L.
+Processing input file /tmp/49360.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 12955 10944 13 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 10L.
+Processing input file /tmp/84000.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19599 3525 13 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 9L.
+Processing input file /tmp/24061.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 13727 10546 12 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 8L.
+Processing input file /tmp/82907.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 30784 4590 10 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 7L.
+Processing input file /tmp/40826.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25578 5517 7 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 6L.
+Processing input file /tmp/55078.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25772 7340 8 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 9L.
+Processing input file /tmp/71052.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20657 11635 15 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 15P x 8L.
+Processing input file /tmp/85455.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19944 4310 12 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 11L.
+Processing input file /tmp/36273.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18974 8173 8 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 9L.
+Processing input file /tmp/75168.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18778 7781 9 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 8L.
+Processing input file /tmp/73799.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 16573 7029 7 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 6L.
+Processing input file /tmp/68362.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21425 9652 6 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 6P x 6L.
+Processing input file /tmp/80507.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 12742 11413 11 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 8L.
+Processing input file /tmp/85044.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25039 6103 8 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 6L.
+Processing input file /tmp/61957.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18570 3082 27 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 27P x 13L.
+Processing input file /tmp/19119.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 30659 4670 11 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 7L.
+Processing input file /tmp/42426.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 13125 10219 13 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 8L.
+Processing input file /tmp/81913.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20544 2115 58 42 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 58P x 42L.
+Processing input file /tmp/8403.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 11209 9350 22 20 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 22P x 20L.
+Processing input file /tmp/79729.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25970 5747 11 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 7L.
+Processing input file /tmp/57821.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 27847 8050 5 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 5P x 7L.
+Processing input file /tmp/74874.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19563 3267 19 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 19P x 13L.
+Processing input file /tmp/20868.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 28467 6661 7 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 11L.
+Processing input file /tmp/66224.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18670 7650 7 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 7L.
+Processing input file /tmp/72896.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26552 2751 21 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 21P x 10L.
+Processing input file /tmp/15108.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 14227 9450 13 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 10L.
+Processing input file /tmp/79955.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10976 9850 9 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 7L.
+Processing input file /tmp/80942.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 12059 11207 13 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 8L.
+Processing input file /tmp/84559.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20465 4200 17 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 8L.
+Processing input file /tmp/34214.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 28630 7323 12 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 8L.
+Processing input file /tmp/70845.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 28778 8988 8 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 6L.
+Processing input file /tmp/78295.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26576 6377 14 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 8L.
+Processing input file /tmp/64253.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8882 4213 22 21 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 22P x 21L.
+Processing input file /tmp/34529.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22725 10641 6 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 6P x 5L.
+Processing input file /tmp/83225.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 31320 4995 78 38 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 78P x 38L.
+Processing input file /tmp/49515.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8879 6883 11 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 8L.
+Processing input file /tmp/67409.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18988 3515 32 28 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 32P x 28L.
+Processing input file /tmp/24130.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8000 6285 30 17 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 30P x 17L.
+Processing input file /tmp/63817.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9382 6968 8 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 7L.
+Processing input file /tmp/67950.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 12632 11221 17 12 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 12L.
+Processing input file /tmp/84604.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25242 4946 32 17 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 32P x 17L.
+Processing input file /tmp/48322.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21095 10745 28 27 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 28P x 27L.
+Processing input file /tmp/83719.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20967 10248 26 22 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 26P x 22L.
+Processing input file /tmp/82001.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20921 4425 10 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 8L.
+Processing input file /tmp/37824.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 5992 4391 63 91 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 63P x 91L.
+Processing input file /tmp/38685.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 32011 3445 25 29 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 25P x 29L.
+Processing input file /tmp/23186.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25614 7334 12 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 10L.
+Processing input file /tmp/71022.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9645 4733 42 22 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 42P x 22L.
+Processing input file /tmp/44121.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10921 11631 28 20 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 28P x 20L.
+Processing input file /tmp/85470.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25494 5403 20 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 20P x 13L.
+Processing input file /tmp/54017.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 16443 6950 6 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 6P x 6L.
+Processing input file /tmp/67836.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20028 4241 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/34820.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25531 6863 6 4 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 6P x 4L.
+Processing input file /tmp/67282.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25958 7042 7 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 6L.
+Processing input file /tmp/68465.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20176 4020 31 17 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 31P x 17L.
+Processing input file /tmp/31825.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 24890 4901 8 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 7L.
+Processing input file /tmp/47161.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18971 4970 17 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 9L.
+Processing input file /tmp/48587.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25559 5535 12 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 9L.
+Processing input file /tmp/55292.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 28086 7882 15 12 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 15P x 12L.
+Processing input file /tmp/74381.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19196 8067 3 4 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 3P x 4L.
+Processing input file /tmp/74907.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25876 5498 7 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 6L.
+Processing input file /tmp/54874.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8770 4575 27 19 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 27P x 19L.
+Processing input file /tmp/40681.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25767 7445 6 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 6P x 5L.
+Processing input file /tmp/71771.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10700 7950 12 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 8L.
+Processing input file /tmp/74611.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 24616 4358 26 21 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 26P x 21L.
+Processing input file /tmp/37000.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20764 4423 4 3 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 4P x 3L.
+Processing input file /tmp/37767.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25928 5505 6 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 6P x 5L.
+Processing input file /tmp/54937.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26012 6747 11 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 11L.
+Processing input file /tmp/66738.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25090 5302 15 22 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 15P x 22L.
+Processing input file /tmp/53105.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20741 11276 13 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 9L.
+Processing input file /tmp/84738.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19681 2180 44 32 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 44P x 32L.
+Processing input file /tmp/8964.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19552 3353 36 20 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 36P x 20L.
+Processing input file /tmp/21924.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19523 4186 22 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 22P x 13L.
+Processing input file /tmp/34028.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21024 11348 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/84900.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25450 6960 8 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 7L.
+Processing input file /tmp/67893.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17761 7039 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/68421.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 28919 9100 14 12 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 12L.
+Processing input file /tmp/78796.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18705 3568 61 27 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 61P x 27L.
+Processing input file /tmp/24997.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25503 5066 17 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 11L.
+Processing input file /tmp/50155.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18893 6977 12 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 10L.
+Processing input file /tmp/67996.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17892 4865 22 12 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 22P x 12L.
+Processing input file /tmp/46364.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 30480 7710 10 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 7L.
+Processing input file /tmp/73235.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29341 5377 11 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 8L.
+Processing input file /tmp/53734.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25982 5830 11 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 8L.
+Processing input file /tmp/58668.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18260 3360 10 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 7L.
+Processing input file /tmp/21874.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21819 3690 17 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 10L.
+Processing input file /tmp/26469.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22442 9592 9 4 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 4L.
+Processing input file /tmp/80302.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 23854 3083 41 15 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 41P x 15L.
+Processing input file /tmp/19147.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20139 3099 13 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 8L.
+Processing input file /tmp/19184.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 28925 7050 8 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 10L.
+Processing input file /tmp/68536.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25661 5275 38 32 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 38P x 32L.
+Processing input file /tmp/52921.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19074 7995 5 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 5P x 5L.
+Processing input file /tmp/74751.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 11724 11620 15 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 15P x 10L.
+Processing input file /tmp/85414.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25675 7390 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/71341.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20991 3066 22 16 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 22P x 16L.
+Processing input file /tmp/18978.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25420 5298 12 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 8L.
+Processing input file /tmp/52904.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21983 8721 5 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 5P x 7L.
+Processing input file /tmp/77307.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 14390 9160 9 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 7L.
+Processing input file /tmp/79002.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 14087 9833 13 34 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 34L.
+Processing input file /tmp/80972.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20753 4017 70 36 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 70P x 36L.
+Processing input file /tmp/32109.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8187 6330 22 20 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 22P x 20L.
+Processing input file /tmp/64056.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19109 3515 9 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 6L.
+Processing input file /tmp/23841.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10826 6404 7 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 7L.
+Processing input file /tmp/64393.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8934 5295 31 27 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 31P x 27L.
+Processing input file /tmp/53054.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20151 4143 11 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 8L.
+Processing input file /tmp/33466.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20317 2763 32 18 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 32P x 18L.
+Processing input file /tmp/15401.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 32057 4495 62 75 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 62P x 75L.
+Processing input file /tmp/40250.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17418 4320 15 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 15P x 8L.
+Processing input file /tmp/36358.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26435 5589 14 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 13L.
+Processing input file /tmp/55938.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18079 4767 8 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 6L.
+Processing input file /tmp/44373.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10772 4200 57 33 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 57P x 33L.
+Processing input file /tmp/34559.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9302 4352 20 16 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 20P x 16L.
+Processing input file /tmp/36893.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 13520 10117 13 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 9L.
+Processing input file /tmp/81678.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25602 7084 6 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 6P x 5L.
+Processing input file /tmp/68720.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 32027 4645 72 92 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 72P x 92L.
+Processing input file /tmp/43866.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 28594 7399 8 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 7L.
+Processing input file /tmp/71388.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25965 5605 5 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 5P x 5L.
+Processing input file /tmp/55991.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19948 4285 20 12 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 20P x 12L.
+Processing input file /tmp/35811.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17856 3587 13 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 8L.
+Processing input file /tmp/24999.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25885 5760 6 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 6P x 5L.
+Processing input file /tmp/57936.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 6250 4900 39 30 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 39P x 30L.
+Processing input file /tmp/47576.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18111 3870 17 15 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 15L.
+Processing input file /tmp/29254.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17230 3988 53 23 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 53P x 23L.
+Processing input file /tmp/31291.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25754 6504 10 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 10L.
+Processing input file /tmp/65019.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 30427 4028 13 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 8L.
+Processing input file /tmp/31835.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19688 8661 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/77043.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21555 7530 5 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 5P x 5L.
+Processing input file /tmp/72236.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17895 4808 6 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 6P x 6L.
+Processing input file /tmp/45047.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26899 2790 36 30 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 36P x 30L.
+Processing input file /tmp/15829.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22336 4174 8 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 7L.
+Processing input file /tmp/33866.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26761 5964 13 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 7L.
+Processing input file /tmp/60516.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10072 6125 10 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 8L.
+Processing input file /tmp/62241.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 7605 4330 41 16 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 41P x 16L.
+Processing input file /tmp/36558.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21895 2819 20 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 20P x 11L.
+Processing input file /tmp/15916.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29325 3690 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/26471.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21771 3460 17 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 9L.
+Processing input file /tmp/23145.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22076 3604 21 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 21P x 11L.
+Processing input file /tmp/25383.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29700 4739 24 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 24P x 13L.
+Processing input file /tmp/44031.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22292 4147 19 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 19P x 8L.
+Processing input file /tmp/33556.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25485 5315 9 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 6L.
+Processing input file /tmp/53059.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18865 4741 15 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 15P x 9L.
+Processing input file /tmp/43999.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19067 7864 5 4 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 5P x 4L.
+Processing input file /tmp/74235.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10013 7433 68 48 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 68P x 48L.
+Processing input file /tmp/71949.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9488 7153 7 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 7L.
+Processing input file /tmp/69241.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 28059 8384 8 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 6L.
+Processing input file /tmp/75945.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 27580 6270 13 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 10L.
+Processing input file /tmp/63659.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26614 6133 8 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 7L.
+Processing input file /tmp/62380.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10721 3467 138 63 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 138P x 63L.
+Processing input file /tmp/23967.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21007 8817 5 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 5P x 5L.
+Processing input file /tmp/77679.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19697 10603 27 25 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 27P x 25L.
+Processing input file /tmp/83160.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21203 4216 18 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 8L.
+Processing input file /tmp/34421.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 28218 7742 18 20 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 20L.
+Processing input file /tmp/73597.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18825 7401 8 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 7L.
+Processing input file /tmp/71432.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18917 3552 9 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 5L.
+Processing input file /tmp/24356.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25841 5468 13 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 9L.
+Processing input file /tmp/54634.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18757 4665 39 35 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 39P x 35L.
+Processing input file /tmp/43033.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10677 4167 22 24 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 22P x 24L.
+Processing input file /tmp/33983.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22143 4442 4 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 4P x 5L.
+Processing input file /tmp/38091.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18916 3190 6 3 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 6P x 3L.
+Processing input file /tmp/20035.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9050 5259 169 82 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 169P x 82L.
+Processing input file /tmp/53277.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 11657 7289 42 22 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 42P x 22L.
+Processing input file /tmp/70530.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8123 6470 12 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 7L.
+Processing input file /tmp/64801.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8111 4507 23 27 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 23P x 27L.
+Processing input file /tmp/39427.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 27243 5714 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/57278.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26410 6072 7 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 6L.
+Processing input file /tmp/61593.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8817 4828 33 18 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 33P x 18L.
+Processing input file /tmp/45652.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25965 7075 11 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 9L.
+Processing input file /tmp/68674.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 28297 7200 5 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 5P x 7L.
+Processing input file /tmp/69662.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 24029 5636 50 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 50P x 13L.
+Processing input file /tmp/56340.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18297 3945 17 14 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 14L.
+Processing input file /tmp/30393.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20574 3773 13 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 8L.
+Processing input file /tmp/27748.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25490 5274 6 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 6P x 5L.
+Processing input file /tmp/52596.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20640 2766 28 15 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 28P x 15L.
+Processing input file /tmp/15397.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20947 3583 14 12 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 12L.
+Processing input file /tmp/24998.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22599 4618 34 18 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 34P x 18L.
+Processing input file /tmp/41562.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25856 5710 8 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 7L.
+Processing input file /tmp/57228.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21253 7919 7 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 6L.
+Processing input file /tmp/74493.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19272 2577 44 26 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 44P x 26L.
+Processing input file /tmp/13584.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19181 2880 15 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 15P x 11L.
+Processing input file /tmp/16637.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10304 6304 8 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 7L.
+Processing input file /tmp/63854.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 30068 5473 11 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 7L.
+Processing input file /tmp/54689.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19495 7145 18 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 13L.
+Processing input file /tmp/69235.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19514 3355 21 18 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 21P x 18L.
+Processing input file /tmp/21940.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19332 7425 13 12 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 12L.
+Processing input file /tmp/71655.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9990 3946 174 167 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 174P x 167L.
+Processing input file /tmp/32998.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25505 6190 9 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 7L.
+Processing input file /tmp/62932.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29840 4688 16 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 16P x 11L.
+Processing input file /tmp/43040.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17783 3499 17 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 8L.
+Processing input file /tmp/23624.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26571 2885 82 61 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 82P x 61L.
+Processing input file /tmp/17371.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 13777 8840 12 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 10L.
+Processing input file /tmp/77785.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9993 6093 8 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 7L.
+Processing input file /tmp/61850.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25898 6064 28 18 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 28P x 18L.
+Processing input file /tmp/61621.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10155 3956 38 14 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 38P x 14L.
+Processing input file /tmp/30626.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19109 4011 12 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 13L.
+Processing input file /tmp/31553.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26011 6720 7 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 8L.
+Processing input file /tmp/66521.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22755 5293 50 54 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 50P x 54L.
+Processing input file /tmp/53278.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10076 9134 10 12 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 12L.
+Processing input file /tmp/78952.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25870 7039 8 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 7L.
+Processing input file /tmp/68442.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9656 6955 8 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 7L.
+Processing input file /tmp/67880.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17111 4549 25 25 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 25P x 25L.
+Processing input file /tmp/40253.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20489 2883 64 27 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 64P x 27L.
+Processing input file /tmp/16875.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29565 5531 19 16 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 19P x 16L.
+Processing input file /tmp/55330.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25701 6249 11 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 8L.
+Processing input file /tmp/63497.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 14047 9729 10 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 13L.
+Processing input file /tmp/80661.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29607 7823 16 18 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 16P x 18L.
+Processing input file /tmp/74103.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18315 3393 27 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 27P x 13L.
+Processing input file /tmp/22298.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9683 7361 17 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 13L.
+Processing input file /tmp/71178.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19268 3744 8 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 6L.
+Processing input file /tmp/27271.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25333 5187 10 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 7L.
+Processing input file /tmp/51525.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20970 10303 20 17 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 20P x 17L.
+Processing input file /tmp/82070.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 13967 8959 9 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 8L.
+Processing input file /tmp/78204.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 7222 5868 51 40 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 51P x 40L.
+Processing input file /tmp/59759.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22769 4294 20 14 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 20P x 14L.
+Processing input file /tmp/36045.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25500 6864 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/67292.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18860 4160 32 24 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 32P x 24L.
+Processing input file /tmp/33881.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 12839 10586 18 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 11L.
+Processing input file /tmp/83041.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26095 5611 8 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 6L.
+Processing input file /tmp/56042.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 6651 3252 19 12 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 19P x 12L.
+Processing input file /tmp/20751.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 6044 3723 72 34 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 72P x 34L.
+Processing input file /tmp/27416.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29430 5059 10 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 7L.
+Processing input file /tmp/49996.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 30478 8208 17 15 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 15L.
+Processing input file /tmp/75301.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18095 7505 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/72084.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25770 6483 4 4 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 4P x 4L.
+Processing input file /tmp/64845.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8652 4596 14 15 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 15L.
+Processing input file /tmp/41048.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25479 5190 3 3 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 3P x 3L.
+Processing input file /tmp/51500.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21793 8338 3 3 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 3P x 3L.
+Processing input file /tmp/75777.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9484 4995 22 16 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 22P x 16L.
+Processing input file /tmp/49137.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 28042 6900 12 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 13L.
+Processing input file /tmp/67601.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 13927 10309 18 12 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 12L.
+Processing input file /tmp/82068.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9016 4267 63 48 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 63P x 48L.
+Processing input file /tmp/36137.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 13290 8530 8 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 9L.
+Processing input file /tmp/76579.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 12230 11383 17 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 10L.
+Processing input file /tmp/84980.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 28587 8951 163 91 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 163P x 91L.
+Processing input file /tmp/78452.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19575 3297 26 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 26P x 13L.
+Processing input file /tmp/21240.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17926 4833 24 21 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 24P x 21L.
+Processing input file /tmp/45900.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25235 6060 6 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 6P x 6L.
+Processing input file /tmp/61496.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25690 5189 9 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 7L.
+Processing input file /tmp/51522.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9165 6285 22 19 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 22P x 19L.
+Processing input file /tmp/63820.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21355 4298 15 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 15P x 11L.
+Processing input file /tmp/36043.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18865 3181 22 16 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 22P x 16L.
+Processing input file /tmp/20071.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22696 4913 57 25 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 57P x 25L.
+Processing input file /tmp/47771.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20513 8305 16 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 16P x 11L.
+Processing input file /tmp/75689.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22409 6809 30 43 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 30P x 43L.
+Processing input file /tmp/67195.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21061 10148 19 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 19P x 7L.
+Processing input file /tmp/81770.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25414 5344 13 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 9L.
+Processing input file /tmp/53353.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9052 6328 25 18 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 25P x 18L.
+Processing input file /tmp/64051.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21735 4435 9 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 7L.
+Processing input file /tmp/38001.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17684 2701 64 20 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 64P x 20L.
+Processing input file /tmp/14676.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20936 11412 14 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 10L.
+Processing input file /tmp/85045.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17860 3153 13 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 8L.
+Processing input file /tmp/19638.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29235 5386 13 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 9L.
+Processing input file /tmp/53828.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 5562 4009 27 27 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 27P x 27L.
+Processing input file /tmp/31819.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10035 8626 8 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 8L.
+Processing input file /tmp/76941.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21770 4370 11 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 7L.
+Processing input file /tmp/37021.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20261 2224 41 26 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 41P x 26L.
+Processing input file /tmp/9284.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19015 7191 10 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 7L.
+Processing input file /tmp/69580.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18388 4685 43 15 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 43P x 15L.
+Processing input file /tmp/43008.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9020 6245 46 38 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 46P x 38L.
+Processing input file /tmp/63699.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25778 5442 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/54337.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20090 4203 13 12 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 12L.
+Processing input file /tmp/34319.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18517 2303 110 46 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 110P x 46L.
+Processing input file /tmp/10639.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18469 3851 38 40 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 38P x 40L.
+Processing input file /tmp/29362.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10049 8502 11 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 10L.
+Processing input file /tmp/76478.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17838 3181 18 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 8L.
+Processing input file /tmp/19994.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19399 3122 15 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 15P x 11L.
+Processing input file /tmp/19404.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20421 3893 10 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 8L.
+Processing input file /tmp/29457.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19313 9236 32 25 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 32P x 25L.
+Processing input file /tmp/79433.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20653 11041 41 26 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 41P x 26L.
+Processing input file /tmp/84177.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18356 5105 23 18 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 23P x 18L.
+Processing input file /tmp/50708.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21228 3296 50 16 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 50P x 16L.
+Processing input file /tmp/21243.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8847 4386 28 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 28P x 13L.
+Processing input file /tmp/37317.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20750 4228 56 23 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 56P x 23L.
+Processing input file /tmp/34862.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 12210 11804 17 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 8L.
+Processing input file /tmp/86223.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25747 7000 8 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 6L.
+Processing input file /tmp/68121.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25359 5176 7 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 7L.
+Processing input file /tmp/51416.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18594 6953 6 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 6P x 5L.
+Processing input file /tmp/67837.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18530 4820 16 15 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 16P x 15L.
+Processing input file /tmp/45521.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 7567 5114 20 20 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 20P x 20L.
+Processing input file /tmp/50788.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 24841 5075 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/50146.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18168 3623 13 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 13L.
+Processing input file /tmp/25664.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8130 6294 9 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 7L.
+Processing input file /tmp/63799.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8506 4639 72 42 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 72P x 42L.
+Processing input file /tmp/42571.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22189 2610 44 15 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 44P x 15L.
+Processing input file /tmp/13769.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9422 4300 33 22 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 33P x 22L.
+Processing input file /tmp/36266.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 30616 5006 77 37 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 77P x 37L.
+Processing input file /tmp/49649.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 30323 7427 8 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 9L.
+Processing input file /tmp/71682.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26302 5890 11 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 13L.
+Processing input file /tmp/59700.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29960 8760 8 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 13L.
+Processing input file /tmp/77506.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25738 7104 10 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 7L.
+Processing input file /tmp/68862.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25925 6272 11 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 9L.
+Processing input file /tmp/63683.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18590 3192 11 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 8L.
+Processing input file /tmp/20125.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8106 5330 14 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 11L.
+Processing input file /tmp/53276.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25431 5125 10 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 8L.
+Processing input file /tmp/50870.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21895 9672 8 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 6L.
+Processing input file /tmp/80558.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 28485 6188 9 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 7L.
+Processing input file /tmp/62934.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 24009 2708 27 14 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 27P x 14L.
+Processing input file /tmp/14683.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22680 10342 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/82115.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 27225 2526 53 32 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 53P x 32L.
+Processing input file /tmp/13102.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8835 6865 33 20 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 33P x 20L.
+Processing input file /tmp/67346.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19395 3458 9 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 7L.
+Processing input file /tmp/23088.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25635 6870 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/67313.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18910 3591 15 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 15P x 11L.
+Processing input file /tmp/25116.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25876 6903 15 19 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 15P x 19L.
+Processing input file /tmp/67676.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21215 4535 13 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 7L.
+Processing input file /tmp/39675.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 7630 5995 11 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 8L.
+Processing input file /tmp/60850.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25290 6079 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/61648.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10380 7939 8 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 10L.
+Processing input file /tmp/74567.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 11826 7287 67 70 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 67P x 70L.
+Processing input file /tmp/71116.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25682 5567 6 4 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 6P x 4L.
+Processing input file /tmp/55624.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20021 5192 10 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 7L.
+Processing input file /tmp/51541.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18327 7640 16 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 16P x 13L.
+Processing input file /tmp/72869.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18772 7693 8 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 7L.
+Processing input file /tmp/73155.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29136 9115 27 45 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 27P x 45L.
+Processing input file /tmp/78991.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29516 7825 11 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 13L.
+Processing input file /tmp/74092.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17774 7873 5 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 5P x 5L.
+Processing input file /tmp/74289.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19611 3694 12 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 7L.
+Processing input file /tmp/26507.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 6735 4970 125 76 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 125P x 76L.
+Processing input file /tmp/49650.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21314 4638 23 12 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 23P x 12L.
+Processing input file /tmp/41798.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26852 5727 7 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 6L.
+Processing input file /tmp/57477.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25847 6390 13 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 11L.
+Processing input file /tmp/64336.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26352 5575 6 4 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 6P x 4L.
+Processing input file /tmp/55696.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29238 9072 7 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 6L.
+Processing input file /tmp/78669.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 30411 5920 13 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 10L.
+Processing input file /tmp/60095.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25641 7260 8 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 7L.
+Processing input file /tmp/70126.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8741 5218 30 32 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 30P x 32L.
+Processing input file /tmp/52269.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9825 4737 17 16 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 16L.
+Processing input file /tmp/44019.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18682 3175 9 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 5L.
+Processing input file /tmp/19876.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 13902 8742 13 19 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 19L.
+Processing input file /tmp/77442.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10873 11417 17 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 11L.
+Processing input file /tmp/85060.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20865 9755 8 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 7L.
+Processing input file /tmp/80711.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 11890 11815 26 16 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 26P x 16L.
+Processing input file /tmp/86286.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25113 5368 8 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 7L.
+Processing input file /tmp/53639.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18455 3941 38 15 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 38P x 15L.
+Processing input file /tmp/30354.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21278 4749 27 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 27P x 13L.
+Processing input file /tmp/44235.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 28248 5880 17 19 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 19L.
+Processing input file /tmp/59585.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19115 5043 17 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 13L.
+Processing input file /tmp/49844.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8785 6668 12 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 8L.
+Processing input file /tmp/66233.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20610 3760 9 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 7L.
+Processing input file /tmp/27493.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25940 7050 6 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 6P x 6L.
+Processing input file /tmp/68515.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21721 8511 9 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 7L.
+Processing input file /tmp/76503.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18776 7011 3 3 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 3P x 3L.
+Processing input file /tmp/68186.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10425 7826 7 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 6L.
+Processing input file /tmp/74018.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21460 7019 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/68257.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 23986 2363 52 37 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 52P x 37L.
+Processing input file /tmp/11143.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17843 7029 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/68340.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20218 3118 13 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 7L.
+Processing input file /tmp/19335.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20021 3537 15 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 15P x 8L.
+Processing input file /tmp/24147.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21650 2722 34 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 34P x 13L.
+Processing input file /tmp/14779.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20829 9670 21 12 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 21P x 12L.
+Processing input file /tmp/80562.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17950 4143 18 12 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 12L.
+Processing input file /tmp/33545.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25621 6324 9 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 8L.
+Processing input file /tmp/63959.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10190 6510 39 14 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 39P x 14L.
+Processing input file /tmp/65148.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 6102 4919 15 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 15P x 8L.
+Processing input file /tmp/47463.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 13055 10677 13 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 11L.
+Processing input file /tmp/83438.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 16852 6914 9 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 8L.
+Processing input file /tmp/67675.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22163 4362 9 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 6L.
+Processing input file /tmp/36912.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29562 4674 16 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 16P x 10L.
+Processing input file /tmp/42591.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19124 2993 29 18 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 29P x 18L.
+Processing input file /tmp/18202.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26644 5687 9 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 8L.
+Processing input file /tmp/56925.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25812 6947 9 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 8L.
+Processing input file /tmp/67830.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20735 4583 13 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 10L.
+Processing input file /tmp/40685.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 13026 10464 12 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 8L.
+Processing input file /tmp/82603.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21925 3646 34 12 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 34P x 12L.
+Processing input file /tmp/25932.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26599 6355 3 4 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 3P x 4L.
+Processing input file /tmp/64103.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21155 5248 13 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 8L.
+Processing input file /tmp/52332.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18629 3252 7 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 6L.
+Processing input file /tmp/20692.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8806 4681 19 15 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 19P x 15L.
+Processing input file /tmp/43054.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25287 5206 57 27 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 57P x 27L.
+Processing input file /tmp/51992.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20165 4144 16 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 16P x 11L.
+Processing input file /tmp/33544.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26162 5807 44 27 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 44P x 27L.
+Processing input file /tmp/58616.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18799 3074 17 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 8L.
+Processing input file /tmp/18984.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19961 3593 13 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 8L.
+Processing input file /tmp/25062.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21742 7099 10 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 7L.
+Processing input file /tmp/68809.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21559 9425 13 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 11L.
+Processing input file /tmp/79897.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17430 4090 33 26 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 33P x 26L.
+Processing input file /tmp/33030.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20600 3841 7 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 6L.
+Processing input file /tmp/28737.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29791 3342 38 19 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 38P x 19L.
+Processing input file /tmp/21857.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25573 7026 10 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 8L.
+Processing input file /tmp/68356.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 13397 10406 13 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 9L.
+Processing input file /tmp/82393.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 27548 6511 5 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 5P x 5L.
+Processing input file /tmp/65041.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29392 7902 17 33 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 33L.
+Processing input file /tmp/74518.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22467 4175 52 48 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 52P x 48L.
+Processing input file /tmp/34407.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 30724 4688 33 19 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 33P x 19L.
+Processing input file /tmp/43246.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18916 3095 13 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 9L.
+Processing input file /tmp/19168.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17381 4840 12 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 12P x 10L.
+Processing input file /tmp/45814.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 12250 11801 13 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 7L.
+Processing input file /tmp/86206.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19207 3253 18 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 8L.
+Processing input file /tmp/20750.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25792 7306 5 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 5P x 6L.
+Processing input file /tmp/70567.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29530 5033 14 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 7L.
+Processing input file /tmp/49576.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25435 5288 11 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 7L.
+Processing input file /tmp/52795.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25794 2983 22 12 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 22P x 12L.
+Processing input file /tmp/18047.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18611 4741 13 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 10L.
+Processing input file /tmp/44010.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 11901 11555 14 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 8L.
+Processing input file /tmp/85241.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17077 4417 16 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 16P x 13L.
+Processing input file /tmp/37794.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25052 4645 11 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 8L.
+Processing input file /tmp/41874.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18966 3355 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/21834.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9567 6131 8 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 6L.
+Processing input file /tmp/62340.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25961 5398 11 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 9L.
+Processing input file /tmp/53915.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25454 6783 33 41 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 33P x 41L.
+Processing input file /tmp/67051.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25410 5233 18 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 8L.
+Processing input file /tmp/52135.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21274 2958 23 16 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 23P x 16L.
+Processing input file /tmp/17708.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26184 6522 8 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 7L.
+Processing input file /tmp/65254.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21160 7405 11 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 8L.
+Processing input file /tmp/71460.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9111 4059 14 16 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 16L.
+Processing input file /tmp/32456.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25828 6287 10 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 8L.
+Processing input file /tmp/63774.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21135 4242 10 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 8L.
+Processing input file /tmp/34876.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18893 3467 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/23167.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20291 4078 73 36 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 73P x 36L.
+Processing input file /tmp/32964.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 11551 11524 14 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 9L.
+Processing input file /tmp/85200.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29941 5216 13 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 8L.
+Processing input file /tmp/51888.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 31604 4877 23 27 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 23P x 27L.
+Processing input file /tmp/47078.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 30023 8873 4 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 4P x 6L.
+Processing input file /tmp/77883.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 31264 4803 99 33 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 99P x 33L.
+Processing input file /tmp/45543.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25740 5580 14 14 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 14L.
+Processing input file /tmp/55851.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 13393 10718 6 6 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 6P x 6L.
+Processing input file /tmp/83546.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21973 2625 19 11 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 19P x 11L.
+Processing input file /tmp/13912.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 24896 4190 116 69 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 116P x 69L.
+Processing input file /tmp/35090.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25281 5439 11 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 7L.
+Processing input file /tmp/54336.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20139 2824 16 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 16P x 8L.
+Processing input file /tmp/15943.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25299 5285 8 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 8P x 7L.
+Processing input file /tmp/52729.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25193 6120 9 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 9P x 7L.
+Processing input file /tmp/62194.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 30733 3750 15 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 15P x 8L.
+Processing input file /tmp/27414.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25459 4930 5 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 5P x 5L.
+Processing input file /tmp/47729.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21795 4525 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/39434.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10543 7850 82 68 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 82P x 68L.
+Processing input file /tmp/74466.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20367 3728 13 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 7L.
+Processing input file /tmp/27026.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19214 3213 47 35 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 47P x 35L.
+Processing input file /tmp/20611.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20685 3413 33 17 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 33P x 17L.
+Processing input file /tmp/22635.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 28205 6704 13 20 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 20L.
+Processing input file /tmp/66517.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 27385 5873 20 19 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 20P x 19L.
+Processing input file /tmp/59537.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29212 5251 17 16 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 17P x 16L.
+Processing input file /tmp/52440.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 13018 11291 13 12 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 12L.
+Processing input file /tmp/84774.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21276 8860 10 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 8L.
+Processing input file /tmp/77840.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 25795 6279 5 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 5P x 5L.
+Processing input file /tmp/63695.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9242 4670 20 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 20P x 13L.
+Processing input file /tmp/42577.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 23081 5464 16 18 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 16P x 18L.
+Processing input file /tmp/54692.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 20091 3001 16 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 16P x 9L.
+Processing input file /tmp/18203.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 13299 10316 16 15 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 16P x 15L.
+Processing input file /tmp/82079.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17581 4263 25 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 25P x 13L.
+Processing input file /tmp/35436.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22010 4560 26 20 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 26P x 20L.
+Processing input file /tmp/40379.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 21202 5272 63 107 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 63P x 107L.
+Processing input file /tmp/53641.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10155 4800 42 22 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 42P x 22L.
+Processing input file /tmp/45301.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18480 3494 28 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 28P x 13L.
+Processing input file /tmp/23609.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 6985 4932 30 25 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 30P x 25L.
+Processing input file /tmp/48105.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 18336 3347 11 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 7L.
+Processing input file /tmp/21684.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 30198 4608 29 21 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 29P x 21L.
+Processing input file /tmp/41457.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10350 9655 23 20 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 23P x 20L.
+Processing input file /tmp/80555.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10871 9786 13 10 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 10L.
+Processing input file /tmp/80797.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 31174 3804 21 12 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 21P x 12L.
+Processing input file /tmp/28255.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 14325 9195 11 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 9L.
+Processing input file /tmp/79148.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 22006 8680 7 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 13L.
+Processing input file /tmp/77128.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 29360 9174 21 13 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 21P x 13L.
+Processing input file /tmp/79103.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10516 7430 16 18 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 16P x 18L.
+Processing input file /tmp/71752.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 28304 6855 14 14 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 14L.
+Processing input file /tmp/67288.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17671 7646 13 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 7L.
+Processing input file /tmp/72863.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8661 6519 66 67 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 66P x 67L.
+Processing input file /tmp/65747.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 26730 5662 7 5 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 7P x 5L.
+Processing input file /tmp/56561.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 19110 3575 10 7 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 7L.
+Processing input file /tmp/24752.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 6556 4902 25 19 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 25P x 19L.
+Processing input file /tmp/47408.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 10330 7789 13 9 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 9L.
+Processing input file /tmp/73828.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 17365 4928 13 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 13P x 8L.
+Processing input file /tmp/47725.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 9342 4469 19 15 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 19P x 15L.
+Processing input file /tmp/38687.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 36000, 17363
+Computed -srcwin 8226 6412 10 8 from projected window.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 10P x 8L.
+Processing input file /tmp/64436.tif.
+0...10...20...30...40...50...60...70...80...90...100 - done.
