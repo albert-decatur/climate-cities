@@ -1,0 +1,11 @@
+field_num	field_name	field_meaning
+1	GRUMP_GID	preprocessing GRUMP urban area ID
+2	GEONAMEIDS	pipe separated list of GEONAME IDs for GRUMP urban areas
+3	ASCIINAMES	pipe separated list of GeoName's ASCIINAMES for GRUMP urban areas
+4	GEONAME_POP	sum of GeoNames population field for GRUMP urban areas - often incomplete
+5	GRUMP_POP	GRUMP population sum for urban area for 2000 (note that GRUMP urban mask is for 1995)
+6	sum_aid	aid2tif outputs for original World Bank Mapping for Results w/o these sectors: "Energy and mining|Industry and trade|Finance"
+7	mean_ppt_prct_abs_diff_1995-1999_1870-1999	for total precip, for each urban area, the mean of the absolute value of the percent difference for UCAR global 1.4 degrees monthly High A2 Scenario for these two year ranges
+8	mean_ppt_prct_abs_diff_2015-2030_1870-1999	for total precip, for each urban area, the mean of the absolute value of the percent difference for UCAR global 1.4 degrees monthly High A2 Scenario for these two year ranges
+9	mean_ts_prct_abs_diff_1995-1999_1870-1999	for surface temp, for each urban area, the mean of the absolute value of the percent difference for UCAR global 1.4 degrees monthly High A2 Scenario for these two year ranges
+10	mean_ts_prct_abs_diff_2015-2030_1870-1999	for surface temp, for each urban area, the mean of the absolute value of the percent difference for UCAR global 1.4 degrees monthly High A2 Scenario for these two year ranges
