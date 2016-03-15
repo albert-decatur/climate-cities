@@ -38,7 +38,7 @@ We use [CIESIN's](http://sedac.ciesin.columbia.edu/data/sets/browse) Global Rura
 
 ###International Aid###
 
-We use [AidData's](aiddata.org) World Bank Mapping for Results dataset, which covers all projects where World Bank was the donor that were active from ..... to ....
+We use [AidData's](aiddata.org) World Bank Mapping for Results dataset, which covers all projects where World Bank was the donor that were active for a subset of years.
 This dataset is current to September 2011.
 
 ##Caveats##
