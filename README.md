@@ -1,7 +1,7 @@
 Climate Cities
 ==============
 
-Determine a relationship between climate-realted development finance going to urban areas and climate change.
+Determine a relationship between climate-related development finance going to urban areas and climate change.
 
 ##Method##
 
